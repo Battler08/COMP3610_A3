@@ -1,0 +1,14 @@
+pyspark 
+pyarrow
+polars
+pandas
+matplotlib 
+numpy
+openai 
+tiktoken 
+pypdf 
+langchain 
+langchain-community 
+chromadb
+openai 
+sentence-transformers 
