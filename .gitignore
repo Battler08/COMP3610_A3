@@ -4,3 +4,6 @@
 API_KEY
 LOCAL_API_KEY
 .DS_Store
+__pycache__
+spark-warehouse
+.DS_Store
